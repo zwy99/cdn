@@ -1,2 +1,1 @@
-picture
-~~~~~~~
+use Jsdeliver to accelerate
