@@ -1,1 +1,1 @@
-use jsdelivr
+Use jsdelivr to accelerate
